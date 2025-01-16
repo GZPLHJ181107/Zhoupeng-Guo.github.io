@@ -18,9 +18,15 @@ Multi-View Learning
 Selected Publications
 ======
 [2024-05] “PBTA: Partial Break Triplet Attention Model for Small Pedestrian Detection Based on Vehicle Camera Sensors” has been accepted by IEEE sensors journal.
+
 PDF-([https://ieeexplore.ieee.org/document/10530563])
+
+
 [2024-07] “GES: A New Building Damage Data Augmentation and Detection Method Based on Extremely Imbalanced Data and Unique Spatial Distribution of Satellite Images” has been accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+
 PDF-([https://ieeexplore.ieee.org/document/10613404])
+
+
 [2024-12]“CTPEM: A Cross-Temporal Progressive Enhancement Model Tackling Object-Level Building Damage Detection and Vanishing Small Features”-Major Revision--Transactions on Geoscience and Remote Sensing (TGRS)
 
 Correspondence
